@@ -100,7 +100,7 @@
    .welcome-section{
      display: flex;
      flex-direction: column;
-     justify-content: center;
+     justify-content: center;        /*This section is not rendering help*/
      align-items: center;
      width: 100%;
      height: 100%;
